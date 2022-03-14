@@ -1,0 +1,47 @@
+.Titulos{
+    color:blue;
+    text-align: center;
+    font-family: Arial;
+
+}
+.botones{
+    background-color: blue;
+    text-align: center;
+    color: white;
+    font-family: Arial;
+
+}
+.imagen1{
+    text-align: center;
+}
+.texto2{
+    color: blue;
+    text-align:  center;
+    font-family: Arial;
+
+}
+.par1{
+    text-align: center;
+    font-family: Arial;
+}
+.ge{
+    text-align:left;
+    font-family: Arial;
+    font-weight: 700;
+}
+.tab{
+    text-align: center;
+    color: blue;
+}
+.teb{
+    text-align: center;
+    font-weight: 700;
+
+
+}
+.teb{
+    text-align: left;
+    font-weight: 700;
+
+
+}
